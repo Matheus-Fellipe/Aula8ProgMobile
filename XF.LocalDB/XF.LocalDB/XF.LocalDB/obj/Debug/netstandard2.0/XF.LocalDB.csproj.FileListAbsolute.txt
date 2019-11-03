@@ -1,0 +1,8 @@
+C:\Users\aluno\Desktop\AULA08\Aula08\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.deps.json
+C:\Users\aluno\Desktop\AULA08\Aula08\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\aluno\Desktop\AULA08\Aula08\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\AULA08\Aula08\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aluno\Desktop\AULA08\Aula08\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aluno\Desktop\AULA08\Aula08\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\AULA08\Aula08\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\AULA08\Aula08\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfo.cs
